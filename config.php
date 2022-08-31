@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "localhost";
-$dbuser = "test_faucet";
-$dbpass = "test_pass";
-$dbname = "test_faucet";
+$dbhost = "";
+$dbuser = "";
+$dbpass = "";
+$dbname = "";
 $display_errors = false;
 $disable_admin_panel = false;
 
